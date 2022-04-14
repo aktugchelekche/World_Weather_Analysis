@@ -2,12 +2,11 @@
 
 ## Overview of Project: 
 
-In this project, I am going to assist Adriana with finding best vacation place according to her needs. This simple app will help her to filter by the Country she wants to visitthen filter by weather preferences within the Country.
+In this project, I am going to create an app that will help to find best vacation place according to client needs. This simple app will help clients to filter by the Country they want to visitthen filter by weather preferences within the Country.
 
-In order to create this app, I utilized Google Map and Places API as well as Open Weather Api. First, by using Open Weather Api, I created a database which includes Max Temperature, Country etc. of each city  within more than 500 cities. Then ask Adriana regarding her preferences. She stated that she wanted to stay in US but making sure that the Temperature is stay between 45 F to 70 F. 
-After receiving feedback from her, I have narrowed down the database and created new database inclued hotel and weather forecast information in US. 
-
-Lastly, I presented my finding and she decided to have road trip started from Portland, North Bend , Weiser then West Richland and back to Portland again. I decided to help her with generating a direction itinerary map and as well as a map with hotel information and weather expectation. 
+In order to create this app, I utilized Google Map and Places API as well as Open Weather Api. First, by using Open Weather Api, I created a database which includes Max Temperature, Country etc. of each city  within more than 500 cities. Then ask clients regarding their preferences. After receiving feedback as staying in US but making sure that the Temperature is stay between 45 F to 70 F. 
+ 
+Lastly, I presented my finding and client decided to have road trip started from Portland, North Bend , Weiser then West Richland and back to Portland again. I decided to help them with generating a direction itinerary map and as well as a map with hotel information and weather expectation. 
 
 ## Summary 
 
